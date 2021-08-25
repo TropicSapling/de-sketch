@@ -1,6 +1,8 @@
 # de-sketch
 Sketch of how my ideal Desktop Environment would look like. Created using Figma.
 
+Note that the backgrounds and most of the icons are just placeholders and not my own.
+
 ### Inspiration
 - macOS
 - elementary OS (Pantheon)
