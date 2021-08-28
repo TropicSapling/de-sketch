@@ -3,7 +3,7 @@
 
 Sketch of how my ideal Desktop Environment layout would look like. Created using Figma.
 
-Note that the backgrounds and most of the icons are just placeholders and not my own.
+Please note that this is just a sketch. If I ever were to make this into something real, I would of course make sure to remove all proprietary parts and add the appropriate license(s) for the open source parts I've used.
 
 ### Inspiration
 - macOS
